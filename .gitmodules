@@ -7,3 +7,15 @@
 [submodule "Wolfereign"]
 	path = Wolfereign
 	url = git@github.com:Wolfereign/nixos-configs.git
+[submodule "Jomik"]
+	path = Jomik
+	url = git@github.com:Jomik/dotfiles.git
+[submodule "rcherrueau"]
+	path = rcherrueau
+	url = git@github.com:rcherrueau/.dotfiles.git
+[submodule "Mic92"]
+	path = Mic92
+	url = git@github.com:Mic92/dotfiles.git
+[submodule "oyren"]
+	path = oyren
+	url = git@github.com:oyren/dotfiles.git
