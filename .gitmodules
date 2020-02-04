@@ -1,9 +1,9 @@
-[submodule "nixos/thomashoneyman"]
-	path = nixos/thomashoneyman
+[submodule "thomashoneyman"]
+	path = thomashoneyman
 	url = https://github.com/thomashoneyman/.dotfiles
-[submodule "nixos/bobvanderlinden"]
-	path = nixos/bobvanderlinden
+[submodule "bobvanderlinden"]
+	path = bobvanderlinden
 	url = git@github.com:bobvanderlinden/nixos-config.git
-[submodule "nixos/Wolfereign"]
-	path = nixos/Wolfereign
+[submodule "Wolfereign"]
+	path = Wolfereign
 	url = git@github.com:Wolfereign/nixos-configs.git
