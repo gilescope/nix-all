@@ -7,7 +7,7 @@ A directory of people's publicly available nix homefiles.
 The following will checkout their latest configs, and then rg (ripgrep) is your friend.
 
 ```
-git clone --recurse-submodules --remote-submodules git@github.com:gilescope/nix-all.git
+git clone --recurse git@github.com:gilescope/nix-all.git
 ```
 
 
