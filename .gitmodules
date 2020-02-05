@@ -61,3 +61,6 @@
 [submodule "3noch"]
 	path = 3noch
 	url = git@github.com:3noch/dotfiles.git
+[submodule "ceedubs"]
+	path = ceedubs
+	url = git@github.com:ceedubs/dotfiles.git
