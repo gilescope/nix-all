@@ -34,3 +34,6 @@
 [submodule "garbas"]
 	path = garbas
 	url = git@github.com:garbas/dotfiles.git
+[submodule "kamilchm"]
+	path = kamilchm
+	url = git@github.com:kamilchm/.nixpkgs.git
