@@ -49,3 +49,6 @@
 [submodule "rasendubi"]
 	path = rasendubi
 	url = git@github.com:rasendubi/dotfiles.git
+[submodule "abbradar"]
+	path = abbradar
+	url = git@github.com:abbradar/dotfiles.git
