@@ -31,3 +31,6 @@
 [submodule "johnae"]
 	path = johnae
 	url = git@github.com:johnae/nixdot.git
+[submodule "garbas"]
+	path = garbas
+	url = git@github.com:garbas/dotfiles.git
