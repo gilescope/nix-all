@@ -82,3 +82,6 @@
 [submodule "ebzzry"]
 	path = ebzzry
 	url = git@github.com:ebzzry/dotfiles.git
+[submodule "attente"]
+	path = attente
+	url = git@github.com:attente/dotfiles.git
