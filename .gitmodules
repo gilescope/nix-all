@@ -58,3 +58,6 @@
 [submodule "utdemir"]
 	path = utdemir
 	url = git@github.com:utdemir/dotfiles.git
+[submodule "3noch"]
+	path = 3noch
+	url = git@github.com:3noch/dotfiles.git
