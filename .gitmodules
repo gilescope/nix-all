@@ -52,3 +52,6 @@
 [submodule "abbradar"]
 	path = abbradar
 	url = git@github.com:abbradar/dotfiles.git
+[submodule "gmarmstrong"]
+	path = gmarmstrong
+	url = git@github.com:gmarmstrong/dotfiles.git
