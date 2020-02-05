@@ -79,3 +79,6 @@
 [submodule "womfoo"]
 	path = womfoo
 	url = git@github.com:womfoo/dotfiles.git
+[submodule "ebzzry"]
+	path = ebzzry
+	url = git@github.com:ebzzry/dotfiles.git
