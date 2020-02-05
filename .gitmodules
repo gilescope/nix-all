@@ -67,3 +67,6 @@
 [submodule "tmrts"]
 	path = tmrts
 	url = git@github.com:tmrts/dotfiles.git
+[submodule "iAmMrinal0"]
+	path = iAmMrinal0
+	url = git@github.com:iAmMrinal0/nix-config.git
