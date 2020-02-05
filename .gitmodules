@@ -40,3 +40,6 @@
 [submodule "datakurre"]
 	path = datakurre
 	url = git@github.com:datakurre/nix-files.git
+[submodule "cprussin"]
+	path = cprussin
+	url = git@github.com:cprussin/dotfiles.git
