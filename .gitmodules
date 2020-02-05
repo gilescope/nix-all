@@ -37,3 +37,6 @@
 [submodule "kamilchm"]
 	path = kamilchm
 	url = git@github.com:kamilchm/.nixpkgs.git
+[submodule "datakurre"]
+	path = datakurre
+	url = git@github.com:datakurre/nix-files.git
