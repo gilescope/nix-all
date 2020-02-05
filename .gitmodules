@@ -76,3 +76,6 @@
 [submodule "nikitavoloboev"]
 	path = nikitavoloboev
 	url = git@github.com:nikitavoloboev/dotfiles.git
+[submodule "womfoo"]
+	path = womfoo
+	url = git@github.com:womfoo/dotfiles.git
