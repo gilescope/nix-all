@@ -55,3 +55,6 @@
 [submodule "gmarmstrong"]
 	path = gmarmstrong
 	url = git@github.com:gmarmstrong/dotfiles.git
+[submodule "utdemir"]
+	path = utdemir
+	url = git@github.com:utdemir/dotfiles.git
