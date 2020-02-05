@@ -25,9 +25,6 @@
 [submodule "xvapx"]
 	path = xvapx
 	url = git@github.com:xvapx/nixos-dotfiles.git
-[submodule "rtfeldman"]
-	path = rtfeldman
-	url = git@github.com:rtfeldman/dotfiles.git
 [submodule "johnae"]
 	path = johnae
 	url = git@github.com:johnae/nixdot.git
