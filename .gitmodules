@@ -46,9 +46,6 @@
 [submodule "k0ral"]
 	path = k0ral
 	url = git@github.com:k0ral/dotfiles.git
-[submodule "rasendubi"]
-	path = rasendubi
-	url = git@github.com:rasendubi/dotfiles.git
 [submodule "abbradar"]
 	path = abbradar
 	url = git@github.com:abbradar/dotfiles.git
