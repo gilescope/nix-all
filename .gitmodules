@@ -19,3 +19,9 @@
 [submodule "oyren"]
 	path = oyren
 	url = git@github.com:oyren/dotfiles.git
+[submodule "srghma"]
+	path = srghma
+	url = git@github.com:srghma/dotfiles.git
+[submodule "xvapx"]
+	path = xvapx
+	url = git@github.com:xvapx/nixos-dotfiles.git
