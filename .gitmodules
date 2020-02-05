@@ -43,3 +43,6 @@
 [submodule "cprussin"]
 	path = cprussin
 	url = git@github.com:cprussin/dotfiles.git
+[submodule "k0ral"]
+	path = k0ral
+	url = git@github.com:k0ral/dotfiles.git
