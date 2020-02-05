@@ -64,3 +64,6 @@
 [submodule "ceedubs"]
 	path = ceedubs
 	url = git@github.com:ceedubs/dotfiles.git
+[submodule "tmrts"]
+	path = tmrts
+	url = git@github.com:tmrts/dotfiles.git
