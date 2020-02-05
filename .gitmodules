@@ -73,3 +73,6 @@
 [submodule "peel"]
 	path = peel
 	url = git@github.com:peel/dotfiles.git
+[submodule "nikitavoloboev"]
+	path = nikitavoloboev
+	url = git@github.com:nikitavoloboev/dotfiles.git
