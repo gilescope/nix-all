@@ -142,3 +142,6 @@
 [submodule "Jooakim"]
 	path = Jooakim
 	url = https://gitlab.com/Jooakim/dotfiles.git
+[submodule "areina"]
+	path = areina
+	url = https://github.com/areina/nixos-config.git
