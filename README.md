@@ -7,7 +7,9 @@ A directory of people's publicly available nix homefiles.
 The following will checkout their latest configs, and then rg (ripgrep) is your friend.
 
 ```
-git clone --recurse git@github.com:gilescope/nix-all.git
+git clone git@github.com:gilescope/nix-all.git
+cd nix-all
+./update.sh
 ```
 
 
