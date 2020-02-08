@@ -181,3 +181,6 @@
 [submodule "nickjanus"]
 	path = nickjanus
 	url = https://github.com/nickjanus/nixos-config.git
+[submodule "periklis"]
+	path = periklis
+	url = https://github.com/periklis/nix-config.git
