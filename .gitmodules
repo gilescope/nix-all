@@ -193,3 +193,6 @@
 [submodule "rasendubi"]
 	path = rasendubi
 	url = https://github.com/rasendubi/dotfiles.git
+[submodule "samueldr"]
+	path = samueldr
+	url = https://gitlab.com/samueldr/nixos-configuration.git
