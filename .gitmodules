@@ -187,3 +187,6 @@
 [submodule "prikhi"]
 	path = prikhi
 	url = https://github.com/prikhi/nixos-config.git
+[submodule "pSub"]
+	path = pSub
+	url = https://github.com/pSub/configs.git
