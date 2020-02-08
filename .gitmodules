@@ -214,3 +214,6 @@
 [submodule "openlab-aux"]
 	path = openlab-aux
 	url = https://github.com/openlab-aux/vuizvui.git
+[submodule "akavel"]
+	path = akavel
+	url = https://github.com/akavel/nix-config.git
