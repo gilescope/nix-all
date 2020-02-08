@@ -160,3 +160,6 @@
 [submodule "ixxie"]
 	path = ixxie
 	url = https://github.com/ixxie/mesoconfig.git
+[submodule "jwiegley"]
+	path = jwiegley
+	url = https://github.com/jwiegley/nix-config.git
