@@ -139,3 +139,6 @@
 [submodule "jhampton"]
 	path = jhampton
 	url = https://gitlab.com/jhampton/dot-files.git
+[submodule "Jooakim"]
+	path = Jooakim
+	url = https://gitlab.com/Jooakim/dotfiles.git
