@@ -220,3 +220,6 @@
 [submodule "matthewbauer"]
 	path = matthewbauer
 	url = https://github.com/matthewbauer/bauer.git
+[submodule "gilescope"]
+	path = gilescope
+	url = git@github.com:gilescope/dotgiles.git
