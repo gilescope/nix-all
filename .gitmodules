@@ -124,3 +124,6 @@
 [submodule "ooelili"]
 	path = ooelili
 	url = https://gitlab.com/ooesili/dotfiles.git
+[submodule "jD91mZM2"]
+	path = jD91mZM2
+	url = https://gitlab.com/jD91mZM2/dotfiles.git
