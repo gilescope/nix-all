@@ -166,3 +166,6 @@
 [submodule "lesobotelho"]
 	path = lesobotelho
 	url = https://github.com/leosbotelho/cartons.git
+[submodule "Luis-Hebendanz"]
+	path = Luis-Hebendanz
+	url = https://github.com/Luis-Hebendanz/nix-configs.git
