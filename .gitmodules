@@ -106,3 +106,6 @@
 [submodule "nyarla"]
 	path = nyarla
 	url = https://gitlab.com/nyarla/nixos-configurations.git
+[submodule "NickSeagull"]
+	path = NickSeagull
+	url = https://gitlab.com/NickSeagull/dotfiles.git
