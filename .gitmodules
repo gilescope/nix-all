@@ -6,76 +6,76 @@
 	url = https://github.com/bobvanderlinden/nixos-config
 [submodule "Wolfereign"]
 	path = Wolfereign
-	url = git@github.com:Wolfereign/nixos-configs.git
+	url = https://github.com/Wolfereign/nixos-configs
 [submodule "Jomik"]
 	path = Jomik
-	url = git@github.com:Jomik/dotfiles.git
+	url = https://github.com/Jomik/dotfiles
 [submodule "rcherrueau"]
 	path = rcherrueau
-	url = git@github.com:rcherrueau/.dotfiles.git
+	url = https://github.com/rcherrueau/.dotfiles
 [submodule "Mic92"]
 	path = Mic92
-	url = git@github.com:Mic92/dotfiles.git
+	url = https://github.com/Mic92/dotfiles
 [submodule "oyren"]
 	path = oyren
-	url = git@github.com:oyren/dotfiles.git
+	url = https://github.com/oyren/dotfiles
 [submodule "srghma"]
 	path = srghma
-	url = git@github.com:srghma/dotfiles.git
+	url = https://github.com/srghma/dotfiles
 [submodule "xvapx"]
 	path = xvapx
-	url = git@github.com:xvapx/nixos-dotfiles.git
+	url = https://github.com/xvapx/nixos-dotfiles
 [submodule "johnae"]
 	path = johnae
-	url = git@github.com:johnae/nixdot.git
+	url = https://github.com/johnae/nixdot
 [submodule "garbas"]
 	path = garbas
-	url = git@github.com:garbas/dotfiles.git
+	url = https://github.com/garbas/dotfiles
 [submodule "kamilchm"]
 	path = kamilchm
-	url = git@github.com:kamilchm/.nixpkgs.git
+	url = https://github.com/kamilchm/.nixpkgs
 [submodule "datakurre"]
 	path = datakurre
-	url = git@github.com:datakurre/nix-files.git
+	url = https://github.com/datakurre/nix-files
 [submodule "cprussin"]
 	path = cprussin
-	url = git@github.com:cprussin/dotfiles.git
+	url = https://github.com/cprussin/dotfiles
 [submodule "k0ral"]
 	path = k0ral
-	url = git@github.com:k0ral/dotfiles.git
+	url = https://github.com/k0ral/dotfiles
 [submodule "abbradar"]
 	path = abbradar
-	url = git@github.com:abbradar/dotfiles.git
+	url = https://github.com/abbradar/dotfiles
 [submodule "gmarmstrong"]
 	path = gmarmstrong
-	url = git@github.com:gmarmstrong/dotfiles.git
+	url = https://github.com/gmarmstrong/dotfiles
 [submodule "utdemir"]
 	path = utdemir
-	url = git@github.com:utdemir/dotfiles.git
+	url = https://github.com/utdemir/dotfiles
 [submodule "3noch"]
 	path = 3noch
-	url = git@github.com:3noch/dotfiles.git
+	url = https://github.com/3noch/dotfiles
 [submodule "ceedubs"]
 	path = ceedubs
-	url = git@github.com:ceedubs/dotfiles.git
+	url = https://github.com/ceedubs/dotfiles
 [submodule "tmrts"]
 	path = tmrts
-	url = git@github.com:tmrts/dotfiles.git
+	url = https://github.com/tmrts/dotfiles
 [submodule "iAmMrinal0"]
 	path = iAmMrinal0
-	url = git@github.com:iAmMrinal0/nix-config.git
+	url = https://github.com/iAmMrinal0/nix-config
 [submodule "peel"]
 	path = peel
-	url = git@github.com:peel/dotfiles.git
+	url = https://github.com/peel/dotfiles
 [submodule "nikitavoloboev"]
 	path = nikitavoloboev
-	url = git@github.com:nikitavoloboev/dotfiles.git
+	url = https://github.com/nikitavoloboev/dotfiles
 [submodule "womfoo"]
 	path = womfoo
-	url = git@github.com:womfoo/dotfiles.git
+	url = https://github.com/womfoo/dotfiles
 [submodule "ebzzry"]
 	path = ebzzry
-	url = git@github.com:ebzzry/dotfiles.git
+	url = https://github.com/ebzzry/dotfiles
 [submodule "attente"]
 	path = attente
-	url = git@github.com:attente/dotfiles.git
+	url = https://github.com/attente/dotfiles
