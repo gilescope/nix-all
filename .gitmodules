@@ -205,3 +205,6 @@
 [submodule "Synthetica9"]
 	path = Synthetica9
 	url = https://github.com/Synthetica9/configuration.nix.git
+[submodule "taktoa"]
+	path = taktoa
+	url = https://github.com/taktoa/server-config.git
