@@ -79,3 +79,6 @@
 [submodule "attente"]
 	path = attente
 	url = https://github.com/attente/dotfiles
+[submodule "davidtwco"]
+	path = davidtwco
+	url = https://github.com/davidtwco/veritas.git
