@@ -91,3 +91,6 @@
 [submodule "rawkode"]
 	path = rawkode
 	url = https://gitlab.com/rawkode/dotfiles.git
+[submodule "jabranham"]
+	path = jabranham
+	url = https://gitlab.com/jabranham/dotfiles.git
