@@ -172,3 +172,6 @@
 [submodule "mogria"]
 	path = mogria
 	url = https://github.com/mogria/nixos-config.git
+[submodule "mxjessie"]
+	path = mxjessie
+	url = https://github.com/mxjessie/nixos-configs.git
