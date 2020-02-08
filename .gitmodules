@@ -130,3 +130,6 @@
 [submodule "Bleu-Box"]
 	path = Bleu-Box
 	url = https://gitlab.com/Bleu-Box/dotfiles.git
+[submodule "alanpearce"]
+	path = alanpearce
+	url = https://gitlab.com/alanpearce/dotfiles.git
