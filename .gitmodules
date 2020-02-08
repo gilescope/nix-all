@@ -97,3 +97,6 @@
 [submodule "karetsu"]
 	path = karetsu
 	url = https://gitlab.com/karetsu/nix-overlays.git
+[submodule "steveej"]
+	path = steveej
+	url = https://gitlab.com/steveeJ/infra.git
