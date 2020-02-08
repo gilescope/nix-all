@@ -3,7 +3,7 @@
 	url = https://github.com/thomashoneyman/.dotfiles
 [submodule "bobvanderlinden"]
 	path = bobvanderlinden
-	url = git@github.com:bobvanderlinden/nixos-config.git
+	url = https://github.com/bobvanderlinden/nixos-config
 [submodule "Wolfereign"]
 	path = Wolfereign
 	url = git@github.com:Wolfereign/nixos-configs.git
