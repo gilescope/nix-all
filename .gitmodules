@@ -88,3 +88,6 @@
 [submodule "mightybyte"]
 	path = mightybyte
 	url = https://gitlab.com/mightybyte/dotfiles-nix.git
+[submodule "rawkode"]
+	path = rawkode
+	url = https://gitlab.com/rawkode/dotfiles.git
