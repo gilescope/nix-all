@@ -121,3 +121,6 @@
 [submodule "ivanbrennan"]
 	path = ivanbrennan
 	url = https://gitlab.com/ivanbrennan/dotfiles.git
+[submodule "ooelili"]
+	path = ooelili
+	url = https://gitlab.com/ooesili/dotfiles.git
