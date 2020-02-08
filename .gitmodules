@@ -127,3 +127,6 @@
 [submodule "jD91mZM2"]
 	path = jD91mZM2
 	url = https://gitlab.com/jD91mZM2/dotfiles.git
+[submodule "Bleu-Box"]
+	path = Bleu-Box
+	url = https://gitlab.com/Bleu-Box/dotfiles.git
