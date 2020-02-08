@@ -154,3 +154,6 @@
 [submodule "CrazedProgrammer"]
 	path = CrazedProgrammer
 	url = https://github.com/CrazedProgrammer/nix.git
+[submodule "davidak"]
+	path = davidak
+	url = https://github.com/davidak/nixos-config.git
