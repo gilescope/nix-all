@@ -211,3 +211,6 @@
 [submodule "trishume"]
 	path = trishume
 	url = https://github.com/trishume/nixfiles.git
+[submodule "openlab-aux"]
+	path = openlab-aux
+	url = https://github.com/openlab-aux/vuizvui.git
