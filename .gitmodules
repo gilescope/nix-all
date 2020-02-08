@@ -85,3 +85,6 @@
 [submodule "NobbZ"]
 	path = NobbZ
 	url = https://gitlab.com/NobbZ/nix-home-manager-dotfiles.git
+[submodule "mightybyte"]
+	path = mightybyte
+	url = https://gitlab.com/mightybyte/dotfiles-nix.git
