@@ -208,3 +208,6 @@
 [submodule "taktoa"]
 	path = taktoa
 	url = https://github.com/taktoa/server-config.git
+[submodule "trishume"]
+	path = trishume
+	url = https://github.com/trishume/nixfiles.git
