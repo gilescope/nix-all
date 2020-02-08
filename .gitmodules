@@ -100,3 +100,6 @@
 [submodule "steveej"]
 	path = steveej
 	url = https://gitlab.com/steveeJ/infra.git
+[submodule "pinage404"]
+	path = pinage404
+	url = https://gitlab.com/pinage404/dotfiles.git
