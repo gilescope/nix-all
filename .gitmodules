@@ -112,3 +112,6 @@
 [submodule "sthordall"]
 	path = sthordall
 	url = https://gitlab.com/sthordall/dotfiles.git
+[submodule "SoftwareSucks"]
+	path = SoftwareSucks
+	url = https://gitlab.com/SoftwareSucks/nixdf.git
