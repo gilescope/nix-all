@@ -118,3 +118,6 @@
 [submodule "iblech"]
 	path = iblech
 	url = https://gitlab.com/iblech/dotfiles.git
+[submodule "ivanbrennan"]
+	path = ivanbrennan
+	url = https://gitlab.com/ivanbrennan/dotfiles.git
