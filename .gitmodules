@@ -145,3 +145,6 @@
 [submodule "areina"]
 	path = areina
 	url = https://github.com/areina/nixos-config.git
+[submodule "barrucadu"]
+	path = barrucadu
+	url = https://github.com/barrucadu/nixfiles.git
