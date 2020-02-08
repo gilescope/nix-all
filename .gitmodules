@@ -94,3 +94,6 @@
 [submodule "jabranham"]
 	path = jabranham
 	url = https://gitlab.com/jabranham/dotfiles.git
+[submodule "karetsu"]
+	path = karetsu
+	url = https://gitlab.com/karetsu/nix-overlays.git
