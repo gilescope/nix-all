@@ -178,3 +178,6 @@
 [submodule "netcave"]
 	path = netcave
 	url = https://github.com/netcave/nix-files.git
+[submodule "nickjanus"]
+	path = nickjanus
+	url = https://github.com/nickjanus/nixos-config.git
