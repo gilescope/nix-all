@@ -157,3 +157,6 @@
 [submodule "davidak"]
 	path = davidak
 	url = https://github.com/davidak/nixos-config.git
+[submodule "ixxie"]
+	path = ixxie
+	url = https://github.com/ixxie/mesoconfig.git
