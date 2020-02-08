@@ -115,3 +115,6 @@
 [submodule "SoftwareSucks"]
 	path = SoftwareSucks
 	url = https://gitlab.com/SoftwareSucks/nixdf.git
+[submodule "iblech"]
+	path = iblech
+	url = https://gitlab.com/iblech/dotfiles.git
