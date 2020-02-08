@@ -109,3 +109,6 @@
 [submodule "NickSeagull"]
 	path = NickSeagull
 	url = https://gitlab.com/NickSeagull/dotfiles.git
+[submodule "sthordall"]
+	path = sthordall
+	url = https://gitlab.com/sthordall/dotfiles.git
