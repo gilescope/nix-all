@@ -148,3 +148,6 @@
 [submodule "barrucadu"]
 	path = barrucadu
 	url = https://github.com/barrucadu/nixfiles.git
+[submodule "coreyoconnor"]
+	path = coreyoconnor
+	url = https://github.com/coreyoconnor/nix_configs.git
