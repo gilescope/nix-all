@@ -133,3 +133,6 @@
 [submodule "alanpearce"]
 	path = alanpearce
 	url = https://gitlab.com/alanpearce/dotfiles.git
+[submodule "Melkor333"]
+	path = Melkor333
+	url = https://gitlab.com/Melkor333/dotfiles.git
