@@ -151,3 +151,6 @@
 [submodule "coreyoconnor"]
 	path = coreyoconnor
 	url = https://github.com/coreyoconnor/nix_configs.git
+[submodule "CrazedProgrammer"]
+	path = CrazedProgrammer
+	url = https://github.com/CrazedProgrammer/nix.git
