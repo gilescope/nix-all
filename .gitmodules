@@ -103,3 +103,6 @@
 [submodule "pinage404"]
 	path = pinage404
 	url = https://gitlab.com/pinage404/dotfiles.git
+[submodule "nyarla"]
+	path = nyarla
+	url = https://gitlab.com/nyarla/nixos-configurations.git
