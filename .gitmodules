@@ -199,3 +199,6 @@
 [submodule "sheenobu"]
 	path = sheenobu
 	url = https://github.com/sheenobu/nixos.git
+[submodule "snabblab"]
+	path = snabblab
+	url = https://github.com/snabblab/snabblab-nixos.git
