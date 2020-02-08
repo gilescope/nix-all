@@ -82,3 +82,6 @@
 [submodule "davidtwco"]
 	path = davidtwco
 	url = https://github.com/davidtwco/veritas.git
+[submodule "NobbZ"]
+	path = NobbZ
+	url = https://gitlab.com/NobbZ/nix-home-manager-dotfiles.git
