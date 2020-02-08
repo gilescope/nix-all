@@ -184,3 +184,6 @@
 [submodule "periklis"]
 	path = periklis
 	url = https://github.com/periklis/nix-config.git
+[submodule "prikhi"]
+	path = prikhi
+	url = https://github.com/prikhi/nixos-config.git
