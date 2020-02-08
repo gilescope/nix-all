@@ -190,3 +190,6 @@
 [submodule "pSub"]
 	path = pSub
 	url = https://github.com/pSub/configs.git
+[submodule "rasendubi"]
+	path = rasendubi
+	url = https://github.com/rasendubi/dotfiles.git
