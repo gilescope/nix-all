@@ -169,3 +169,6 @@
 [submodule "Luis-Hebendanz"]
 	path = Luis-Hebendanz
 	url = https://github.com/Luis-Hebendanz/nix-configs.git
+[submodule "mogria"]
+	path = mogria
+	url = https://github.com/mogria/nixos-config.git
