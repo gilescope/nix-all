@@ -175,3 +175,6 @@
 [submodule "mxjessie"]
 	path = mxjessie
 	url = https://github.com/mxjessie/nixos-configs.git
+[submodule "netcave"]
+	path = netcave
+	url = https://github.com/netcave/nix-files.git
