@@ -196,3 +196,6 @@
 [submodule "samueldr"]
 	path = samueldr
 	url = https://gitlab.com/samueldr/nixos-configuration.git
+[submodule "sheenobu"]
+	path = sheenobu
+	url = https://github.com/sheenobu/nixos.git
