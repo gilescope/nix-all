@@ -223,3 +223,6 @@
 [submodule "gilescope"]
 	path = gilescope
 	url = git@github.com:gilescope/dotgiles.git
+[submodule "JohnathanReeve"]
+	path = JohnathanReeve
+	url = https://github.com/JonathanReeve/dotfiles.git
