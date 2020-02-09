@@ -226,3 +226,6 @@
 [submodule "JohnathanReeve"]
 	path = JohnathanReeve
 	url = https://github.com/JonathanReeve/dotfiles.git
+[submodule "adisbladias"]
+	path = adisbladias
+	url = https://github.com/adisbladis/nixconfig.git
