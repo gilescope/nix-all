@@ -229,3 +229,6 @@
 [submodule "adisbladias"]
 	path = adisbladias
 	url = https://github.com/adisbladis/nixconfig.git
+[submodule "khanelinix"]
+	path = khanelinix
+	url = https://github.com/khaneliman/khanelinix
