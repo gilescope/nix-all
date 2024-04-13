@@ -40,9 +40,6 @@
 [submodule "cprussin"]
 	path = cprussin
 	url = https://github.com/cprussin/dotfiles
-[submodule "k0ral"]
-	path = k0ral
-	url = https://github.com/k0ral/dotfiles
 [submodule "abbradar"]
 	path = abbradar
 	url = https://github.com/abbradar/dotfiles
@@ -55,9 +52,6 @@
 [submodule "3noch"]
 	path = 3noch
 	url = https://github.com/3noch/dotfiles
-[submodule "ceedubs"]
-	path = ceedubs
-	url = https://github.com/ceedubs/dotfiles
 [submodule "tmrts"]
 	path = tmrts
 	url = https://github.com/tmrts/dotfiles
@@ -82,15 +76,6 @@
 [submodule "davidtwco"]
 	path = davidtwco
 	url = https://github.com/davidtwco/veritas.git
-[submodule "NobbZ"]
-	path = NobbZ
-	url = https://gitlab.com/NobbZ/nix-home-manager-dotfiles.git
-[submodule "mightybyte"]
-	path = mightybyte
-	url = https://gitlab.com/mightybyte/dotfiles-nix.git
-[submodule "rawkode"]
-	path = rawkode
-	url = https://gitlab.com/rawkode/dotfiles.git
 [submodule "jabranham"]
 	path = jabranham
 	url = https://gitlab.com/jabranham/dotfiles.git
@@ -130,9 +115,6 @@
 [submodule "Bleu-Box"]
 	path = Bleu-Box
 	url = https://gitlab.com/Bleu-Box/dotfiles.git
-[submodule "alanpearce"]
-	path = alanpearce
-	url = https://gitlab.com/alanpearce/dotfiles.git
 [submodule "Melkor333"]
 	path = Melkor333
 	url = https://gitlab.com/Melkor333/dotfiles.git
@@ -163,9 +145,6 @@
 [submodule "jwiegley"]
 	path = jwiegley
 	url = https://github.com/jwiegley/nix-config.git
-[submodule "lesobotelho"]
-	path = lesobotelho
-	url = https://github.com/leosbotelho/cartons.git
 [submodule "Luis-Hebendanz"]
 	path = Luis-Hebendanz
 	url = https://github.com/Luis-Hebendanz/nix-configs.git
@@ -205,9 +184,6 @@
 [submodule "Synthetica9"]
 	path = Synthetica9
 	url = https://github.com/Synthetica9/configuration.nix.git
-[submodule "taktoa"]
-	path = taktoa
-	url = https://github.com/taktoa/server-config.git
 [submodule "trishume"]
 	path = trishume
 	url = https://github.com/trishume/nixfiles.git
